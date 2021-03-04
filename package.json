@@ -1,0 +1,27 @@
+{
+  "name": "employee-managment-system",
+  "version": "1.0.0",
+  "description": "A terminal based employee database managment system",
+  "main": "index.js",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinyates887/employee-managment-system.git"
+  },
+  "author": "Justin Yates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinyates887/employee-managment-system/issues"
+  },
+  "homepage": "https://github.com/justinyates887/employee-managment-system#readme"
+}
